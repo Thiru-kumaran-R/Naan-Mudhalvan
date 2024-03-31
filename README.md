@@ -1,10 +1,4 @@
 # LSTM Attention based Generative Chat bot
-Personified Generative Chatbot using RNNs (LSTM) &amp; Attention in TensorFlow
-
-> “In the next few decades, as we continue to create our digital footprints, millennial's will have generated enough data to make “Digital Immortality” feasible” - *MIT Technology Review, October 2018.*
-
-What if there is ‘life after death’ or you can talk to your loved ones, even after they left you? In the movie Transcendence (2014), AI researcher, Evelyn uploaded her hubby’s consciousness into a quantum computer, just before his imminent death. While the post-death digital interactions with her hubby, remains a science fiction, as of today, **it is feasible to create a digital imprint of you, who can talk just like you!**
-
 Digital “you” may look like a text-based chatbot or an audio voice like Siri or a digitally edited video or a 3-D animated character or even an embedded humanoid robot. **But the main challenge is to personify the multiple personalities, that each one of us are! Yeah, we are different when we talk to different people**, right? This is why the **“Augmented Eternity”** platform takes data from multiple sources — Facebook, Twitter, Messaging apps etc.
 
 Your speech consists of your personal voice and words. State of the art Deep Learning techniques, viz. Sequence to Sequence modelling and Attention models are widely used to 
